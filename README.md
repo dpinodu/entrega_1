@@ -1,5 +1,3 @@
-# entrega_1
-Entrega 1  integración continua
 # Integración continua 
 ## Proyecto de software basado en herramientas de integración continua
 
